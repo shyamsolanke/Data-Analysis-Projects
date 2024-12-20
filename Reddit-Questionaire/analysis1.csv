@@ -1,0 +1,67 @@
+,colnames,vote,value,sum,sum_sum,ratio
+0,What year are you?,1,Junior,767,1862,41.192266380236305
+1,What year are you?,1,Other,22,42,52.38095238095239
+2,What year are you?,1,Sophmore,194,434,44.70046082949309
+3,What year are you?,1,Senior,168,448,37.5
+4,What year are you?,1,Freshman,10,14,71.42857142857143
+5,What year are you?,2,Junior,652,1862,35.01611170784103
+6,What year are you?,2,Other,11,42,26.190476190476193
+7,What year are you?,2,Sophmore,150,434,34.56221198156682
+8,What year are you?,2,Senior,172,448,38.392857142857146
+9,What year are you?,2,Freshman,3,14,21.428571428571427
+10,What year are you?,3,Junior,443,1862,23.791621911922665
+11,What year are you?,3,Other,9,42,21.428571428571427
+12,What year are you?,3,Sophmore,90,434,20.737327188940093
+13,What year are you?,3,Senior,108,448,24.107142857142858
+14,What year are you?,3,Freshman,1,14,7.142857142857142
+15,You could describe the,1,Mildly conservative,335,798,41.97994987468672
+16,You could describe the,1,Mildly liberal,345,854,40.39812646370024
+17,You could describe the,1,Strongly liberal,83,196,42.3469387755102
+18,You could describe the,1,Neutral,235,546,43.040293040293044
+19,You could describe the,1,Don't know / It's complicated,72,196,36.734693877551024
+20,You could describe the,1,Strongly conservative,91,210,43.333333333333336
+21,You could describe the,2,Mildly conservative,277,798,34.711779448621556
+22,You could describe the,2,Mildly liberal,298,854,34.894613583138174
+23,You could describe the,2,Strongly liberal,63,196,32.142857142857146
+24,You could describe the,2,Neutral,197,546,36.08058608058608
+25,You could describe the,2,Don't know / It's complicated,91,196,46.42857142857143
+26,You could describe the,2,Strongly conservative,62,210,29.523809523809526
+27,You could describe the,3,Mildly conservative,186,798,23.308270676691727
+28,You could describe the,3,Mildly liberal,211,854,24.707259953161593
+29,You could describe the,3,Strongly liberal,50,196,25.510204081632654
+30,You could describe the,3,Neutral,114,546,20.87912087912088
+31,You could describe the,3,Don't know / It's complicated,33,196,16.83673469387755
+32,You could describe the,3,Strongly conservative,57,210,27.142857142857142
+33,You could describe yourself,1,Mildly conservative,134,336,39.88095238095239
+34,You could describe yourself,1,Mildly liberal,466,1134,41.09347442680776
+35,You could describe yourself,1,Neutral,232,546,42.49084249084249
+36,You could describe yourself,1,Strongly liberal,215,532,40.41353383458647
+37,You could describe yourself,1,Don't know / It's complicated,71,154,46.103896103896105
+38,You could describe yourself,1,Strongly conservative,43,98,43.87755102040816
+39,You could describe yourself,2,Mildly conservative,109,336,32.44047619047619
+40,You could describe yourself,2,Mildly liberal,420,1134,37.03703703703704
+41,You could describe yourself,2,Neutral,196,546,35.8974358974359
+42,You could describe yourself,2,Strongly liberal,193,532,36.278195488721806
+43,You could describe yourself,2,Don't know / It's complicated,49,154,31.818181818181817
+44,You could describe yourself,2,Strongly conservative,21,98,21.428571428571427
+45,You could describe yourself,3,Mildly conservative,93,336,27.67857142857143
+46,You could describe yourself,3,Mildly liberal,248,1134,21.869488536155202
+47,You could describe yourself,3,Neutral,118,546,21.611721611721613
+48,You could describe yourself,3,Strongly liberal,124,532,23.308270676691727
+49,You could describe yourself,3,Don't know / It's complicated,34,154,22.07792207792208
+50,You could describe yourself,3,Strongly conservative,34,98,34.69387755102041
+51,How would you rate,1,Not spiritual at all,508,1148,44.25087108013937
+52,How would you rate,1,Somewhat spiritual,501,1246,40.208667736757626
+53,How would you rate,1,Strongly spiritual,152,406,37.4384236453202
+54,How would you rate,2,Not spiritual at all,393,1148,34.23344947735192
+55,How would you rate,2,Somewhat spiritual,460,1246,36.91813804173354
+56,How would you rate,2,Strongly spiritual,135,406,33.251231527093594
+57,How would you rate,3,Not spiritual at all,247,1148,21.515679442508713
+58,How would you rate,3,Somewhat spiritual,285,1246,22.87319422150883
+59,How would you rate,3,Strongly spiritual,119,406,29.310344827586203
+60,What bests represents your,1,Male,911,2198,41.44676979071883
+61,What bests represents your,1,Female,250,602,41.52823920265781
+62,What bests represents your,2,Male,790,2198,35.9417652411283
+63,What bests represents your,2,Female,198,602,32.89036544850498
+64,What bests represents your,3,Male,497,2198,22.611464968152866
+65,What bests represents your,3,Female,154,602,25.581395348837212
